@@ -1,5 +1,5 @@
 pandas
-scikit-learn
-category-encoders
+scikit-learn<=1.1.3
+category-encoders==2.6.4
 streamlit
 joblib
